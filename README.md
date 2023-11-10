@@ -1,21 +1,4 @@
 # AdvancePythonLab_VVCE
-PART-A
-
-1.	Write a python program to check whether the number is prime or not. 
-
-2.	Write a Python program to calculate the length of a string without using built in function and check whether it is a palindrome or not.
-
-3.	Write a Python function that accepts a sentence from the user and counts the number of words in the sentence.
-
-4.	Write a Python program to sum all the numbers in a list.
-
-5.	Write a Python program to store phone numbers of persons in a dictionary and display the phone number of the requested person.
-
-6.	Develop a python program to copy the contents of only odd lines from one file to another file.
-
-7.	Write a python program to check if the number is even or odd using a user defined function.
-
-8.	Develop a python program to count occurrence of all characters present in a string.
 
 PART-A
 
